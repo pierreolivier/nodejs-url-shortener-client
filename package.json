@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-url-shortener-client",
+  "description": "Client library for nodejs-url-shortener",
+  "version": "0.0.1",
+  "author": "Pierre-Olivier Bouteau <bouteau.pierreolivier@gmail.com>",
+  "private": false,
+  "keywords": [
+    "client",
+    "url",
+    "shortener",
+    "api",
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pierreolivier/ip-filtering.git"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "request": "^2.42.0"
+  },
+  "license": "MIT"
+}

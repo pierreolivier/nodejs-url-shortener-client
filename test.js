@@ -1,0 +1,1 @@
+var urlshortener = require('./index');
